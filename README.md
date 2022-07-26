@@ -15,7 +15,17 @@ Random secure password generator that asks the user for input on how many charac
     
     MIT
 
----
+   
+## Link to deployed webpage: 
+   https://dylanb0905.github.io/Secure-Password-Generator/
+   
+   
+ 
+## Screenshot:
+   
+   ![Alt text](/images/img.jpg?raw=true "Screenshot")
+   
+   
 
 
 
